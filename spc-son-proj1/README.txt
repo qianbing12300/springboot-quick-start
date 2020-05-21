@@ -48,4 +48,4 @@ java -Xms128m -Xmx128m -jar spcsonproj1.jar --server.port=8888
 如何查找配置的参数？
 1. jps 查看进程
  如 20744  jar
-2. jinfo 20744 chakan
+2. jinfo 20744 查看jar包运行基本参数
